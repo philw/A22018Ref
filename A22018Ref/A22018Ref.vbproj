@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E8A7298F-6D93-4AAD-B34B-EC859BDA2642}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>A22018Ref.Module1</StartupObject>
+    <StartupObject>Sub Main</StartupObject>
     <RootNamespace>A22018Ref</RootNamespace>
     <AssemblyName>A22018Ref</AssemblyName>
     <FileAlignment>512</FileAlignment>
